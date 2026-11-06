@@ -494,22 +494,29 @@ aside > form > input[type="email"]:focus,
 
 	.services-container aside {
 		/*padding: 14px 14px 20px 14px;*/
+<<<<<<< HEAD
 		max-width: 100%;
 	}
 
 	.services-container aside > form {
 		max-width: 100%;
+=======
+>>>>>>> 12f1ec5bf6ff3346431acb949bf70c083ef64f9f
 	}
 
 	.services-container aside > form > input[type="text"],
 	aside > form > input[type="email"],
 	.services-container aside > form > textarea {
 		/*width: 278.4px;*/
+<<<<<<< HEAD
 		max-width: 100%;
 	}
 
 	.services-container aside > form >textarea {
 		max-width: 100%;
+=======
+		width: 100%;
+>>>>>>> 12f1ec5bf6ff3346431acb949bf70c083ef64f9f
 	}
 
 	/* FOOTER */
