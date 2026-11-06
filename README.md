@@ -4,5 +4,8 @@ Built a responsive three-page website using HTML and CSS to practice multi-page 
 
 https://markocira42-cmd.github.io/Responsive-3-Page-Website/
 
-#### Desktop View Screenshot
-![Desktop View](Screenshot_2026-10-16_18-37-24.png)
+#### Desktop View
+![Desktop View](screenshots/desktop-view)
+
+#### Moblie View
+![Desktop View](screenshots/mobile-view)
